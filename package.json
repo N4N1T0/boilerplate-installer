@@ -1,0 +1,18 @@
+{
+	"name": "my-boilerplate-installer",
+	"version": "1.0.7",
+	"description": "A CLI tool to initialize a customized Next.js or Astro project",
+	"main": "index.js",
+	"bin": {
+		"my-boilerplate": "./index.js"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"fs-extra": "^11.2.0",
+		"inquirer": "^8.0.0"
+	},
+	"author": "",
+	"license": "ISC"
+}
