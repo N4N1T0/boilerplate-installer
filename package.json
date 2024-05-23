@@ -1,6 +1,6 @@
 {
 	"name": "my-boilerplate-installer",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"description": "A CLI tool to initialize a customized Next.js or Astro project",
 	"main": "index.js",
 	"bin": {
